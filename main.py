@@ -1,8 +1,9 @@
 """News image entry for make.fun bounty news-image-20261126.
 
 This program copies the finished one-page newspaper image
-(``entry.png``, 1024x1024, 40 stories from Thursday 26 November 2026)
-to ``/output/entry.png`` so the grader can find it.
+(``entry.png``, 1024x1024, 35 stories from Thursday 26 November 2026,
+World Dispatch layout) to ``/output/entry.png`` so the grader can
+find it.
 
 The image is pre-rendered and shipped with this repository; this
 entrypoint performs no network access and needs nothing beyond the
